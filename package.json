@@ -1,0 +1,11 @@
+{
+  "homepage": "https://ykycuk.github.io/game-Ukraine",
+
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
