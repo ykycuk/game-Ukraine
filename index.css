@@ -84,7 +84,7 @@ main {
 
 @media(min-width:550px){
     .avatar {
-        width: 25vh;
+        width: 20vh;
     }
 }
 
